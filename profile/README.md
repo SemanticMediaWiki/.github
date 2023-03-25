@@ -15,3 +15,6 @@ Primary communication channels:
 * [User mailing list](https://sourceforge.net/projects/semediawiki/lists/semediawiki-user) - for user questions
 * [SMW chat room](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki_chatroom) - for questions and developer discussions
 * **Issue tracker** in the individual repositories for bug reports
+
+## Help with development and testing
+We are an open-source project and are dependent on contributions from the community! We invite you to pick one of our responsitories and help us out where you can. Developers can create pull requests or help us with bug fixing. Non-developers can help by testing and commenting on issues or improve documentation here or on https://www.semantic-mediawiki.org.
