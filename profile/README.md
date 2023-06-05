@@ -18,3 +18,11 @@ Primary communication channels:
 
 ## Help with development and testing
 We are an open-source project and are dependent on contributions from the community! We invite you to pick one of our responsitories and help us out where you can. Developers can create pull requests or help us with bug fixing. Non-developers can help by testing and commenting on issues or improve documentation here or on https://www.semantic-mediawiki.org.
+
+## SemanticMediaWiki is currently [sponsored by](https://www.semantic-mediawiki.org/wiki/Sponsorship):
+[![KM-A](https://www.semantic-mediawiki.org/w/thumb.php?f=KM-A_logo.png&width=100)](https://www.km-a.net) [KM-A Knowledge Management Associates ](https://www.semantic-mediawiki.org/wiki/Sponsorship/KM-A) (gold sponsor)
+
+[![Professional.wiki](https://www.semantic-mediawiki.org/w/thumb.php?f=ProfessionalWikiLogo.png&width=25)](https://www.professional.wiki) [Professional.Wiki](https://www.semantic-mediawiki.org/wiki/Sponsorship/Professional_Wiki) (bronze sponsor)
+
+
+
