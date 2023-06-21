@@ -1,5 +1,5 @@
 ## Welcome to the Semantic MediaWiki repository!
-Semantic MediaWiki (SMW) is also a full-fledged frameork, in conjunction with many spinoff extensions (most of which can be found in the repositories below), that can turn a wiki into a powerful and flexible knowledge management system. All data created within Semantic MediaWiki can easily be exported or published via the Semantic Web, allowing other systems to use this data seamlessly. Please visit the SMW Website at https://www.semantic-mediawiki.org
+Semantic MediaWiki (SMW) is a full-fledged framework, in conjunction with many spinoff extensions (most of which can be found in the repositories below), that can turn a wiki into a powerful and flexible knowledge management system. All data created within Semantic MediaWiki can easily be exported or published via the Semantic Web, allowing other systems to use this data seamlessly. Please visit the SMW Website at https://www.semantic-mediawiki.org
 
 ## Join the #SemanticMW Community
 
