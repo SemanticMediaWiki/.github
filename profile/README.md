@@ -26,7 +26,7 @@ We are an open-source project and are dependent on contributions from the commun
 ### [Gold sponsors](https://www.semantic-mediawiki.org/wiki/Gold_Sponsor) ###
 [![KM-A](https://www.semantic-mediawiki.org/w/thumb.php?f=KM-A_logo.png&width=150)](https://www.km-a.net) [KM-A Knowledge Management Associates ](https://www.semantic-mediawiki.org/wiki/Sponsorship/KM-A)
 #### [Silver sponsors](https://www.semantic-mediawiki.org/wiki/Silver) ####
-[![Gesinn IT](https://www.semantic-mediawiki.org/w/thumb.php?f=Gesinn.it.png&width=100)]([https://www.professional.wiki]) [Gesinn IT](https://www.semantic-mediawiki.org/wiki/Sponsorship/gesinn.it)
+[![Gesinn IT](https://www.semantic-mediawiki.org/w/thumb.php?f=Gesinn.it.png&width=100)](https://www.gesinn.it) [Gesinn IT](https://www.semantic-mediawiki.org/wiki/Sponsorship/gesinn.it)
 ##### [Bronze sponsors](https://www.semantic-mediawiki.org/wiki/Bronze) #####
 [![Professional.wiki](https://www.semantic-mediawiki.org/w/thumb.php?f=ProfessionalWikiLogo.png&width=50)](https://www.professional.wiki) [Professional.Wiki](https://www.semantic-mediawiki.org/wiki/Sponsorship/Professional_Wiki)
 <!--###### [Copper sponsors](https://www.semantic-mediawiki.org/wiki/Copper) ######
