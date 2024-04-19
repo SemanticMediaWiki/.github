@@ -34,8 +34,8 @@ We are an open-source project and are dependent on contributions from the commun
 ##### [Bronze sponsors](https://www.semantic-mediawiki.org/wiki/Bronze) #####
 [![Professional.wiki](https://www.semantic-mediawiki.org/w/thumb.php?f=ProfessionalWikiLogo.png&width=50)](https://www.professional.wiki) [Professional.Wiki](https://www.semantic-mediawiki.org/wiki/Sponsorship/Professional_Wiki)
 
-<!--###### [Copper sponsors](https://www.semantic-mediawiki.org/wiki/Copper) ######
+###### [Copper sponsors](https://www.semantic-mediawiki.org/wiki/Copper) ######
 * [HMS Analytical Software](https://www.semantic-mediawiki.org/wiki/Sponsorship/HMS_Analytical_Software)
--->
+
 
 
