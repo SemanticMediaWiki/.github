@@ -30,6 +30,7 @@ We are an open-source project and are dependent on contributions from the commun
 [![KM-A](https://www.semantic-mediawiki.org/w/thumb.php?f=KM-A_logo.png&width=150)](https://www.km-a.net) [KM-A Knowledge Management Associates ](https://www.semantic-mediawiki.org/wiki/Sponsorship/KM-A)
 
 #### [Silver sponsors](https://www.semantic-mediawiki.org/wiki/Silver) ####
+[![ArchiXL](https://www.semantic-mediawiki.org/w/thumb.php?f=Logo-archixl.jpg&width=100)](https://www.archixl.nl/) [ArchiXL](https://www.semantic-mediawiki.org/wiki/Sponsorship/archiXL)
 [![Gesinn IT](https://www.semantic-mediawiki.org/w/thumb.php?f=Gesinn.it.png&width=100)](https://www.gesinn.it) [Gesinn IT](https://www.semantic-mediawiki.org/wiki/Sponsorship/gesinn.it)
 ##### [Bronze sponsors](https://www.semantic-mediawiki.org/wiki/Bronze) #####
 [![Professional.wiki](https://www.semantic-mediawiki.org/w/thumb.php?f=ProfessionalWikiLogo.png&width=50)](https://www.professional.wiki) [Professional.Wiki](https://www.semantic-mediawiki.org/wiki/Sponsorship/Professional_Wiki)
