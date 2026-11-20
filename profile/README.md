@@ -24,21 +24,22 @@ We are an open-source project and are dependent on contributions from the commun
 
 ## SemanticMediaWiki is currently [sponsored by](https://www.semantic-mediawiki.org/wiki/Sponsorship):
 
-## [Platinum sponsor](https://www.semantic-mediawiki.org/wiki/Platinum_Sponsor) ## 
-[![Professional.wiki](https://www.semantic-mediawiki.org/w/thumb.php?f=ProfessionalWikiLogo.png&width=100)](https://www.semantic-mediawiki.org/wiki/Sponsorship/Professional_Wiki)
+## [Platinum sponsors](https://www.semantic-mediawiki.org/wiki/Platinum_Sponsor) ## 
+[![Professional.wiki](https://www.semantic-mediawiki.org/w/thumb.php?f=ProfessionalWikiLogo.png&width=100)](https://www.semantic-mediawiki.org/wiki/Sponsorship/Professional_Wiki)<br>
 [Professional.Wiki](https://www.professional.wiki)
 
-### [Gold sponsor](https://www.semantic-mediawiki.org/wiki/Gold_Sponsor) ###
-[![KM-A](https://www.semantic-mediawiki.org/w/thumb.php?f=KM-A_logo.png&width=100)](https://www.semantic-mediawiki.org/wiki/Sponsorship/KM-A)
+### [Gold sponsors](https://www.semantic-mediawiki.org/wiki/Gold_Sponsor) ###
+[![KM-A](https://www.semantic-mediawiki.org/w/thumb.php?f=KM-A_logo.png&width=100)](https://www.semantic-mediawiki.org/wiki/Sponsorship/KM-A)<br>
 [KM-A Knowledge Management Associates ](https://www.km-a.net)
 
-#### [Silver sponsor](https://www.semantic-mediawiki.org/wiki/Silver_Sponsor) ####
-[![ArchiXL](https://www.semantic-mediawiki.org/w/thumb.php?f=Logo-archixl.jpg&width=100)](https://www.semantic-mediawiki.org/wiki/Sponsorship/ArchiXL)
+#### [Silver sponsors](https://www.semantic-mediawiki.org/wiki/Silver_Sponsor) ####
+[![ArchiXL](https://www.semantic-mediawiki.org/w/thumb.php?f=Logo-archixl.jpg&width=100)](https://www.semantic-mediawiki.org/wiki/Sponsorship/ArchiXL)<br>
 [ArchiXL](https://www.archixl.nl/)
-[![Gesinn IT](https://www.semantic-mediawiki.org/w/images/5/52/GesinnIT.png)](https://www.semantic-mediawiki.org/wiki/Sponsorship/gesinn.it)
+
+[![Gesinn IT](https://www.semantic-mediawiki.org/w/images/5/52/GesinnIT.png)](https://www.semantic-mediawiki.org/wiki/Sponsorship/gesinn.it)<br>
 [Gesinn IT](https://www.gesinn.it)
 
-##### [Bronze sponsor](https://www.semantic-mediawiki.org/wiki/Bronze) #####
+##### [Bronze sponsors](https://www.semantic-mediawiki.org/wiki/Bronze) #####
 
-###### [Copper sponsor](https://www.semantic-mediawiki.org/wiki/Copper) ######
+###### [Copper sponsors](https://www.semantic-mediawiki.org/wiki/Copper) ######
 [HMS Analytical Software](https://www.semantic-mediawiki.org/wiki/Sponsorship/HMS_Analytical_Software)
